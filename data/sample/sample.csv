@@ -1,0 +1,4 @@
+file_name,size_kb,expected_hash
+lesson-plan.md,12,seed-a
+network-notes.txt,8,seed-b
+inventory.csv,16,seed-c
